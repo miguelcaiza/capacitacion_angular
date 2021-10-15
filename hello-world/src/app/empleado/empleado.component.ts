@@ -1,5 +1,6 @@
 import { Component } from "@angular/core";
 import { Empleado } from "./empleado";
+import { CommonModule } from "@angular/common";
 
 @Component({
     selector:'empleado-tag',
